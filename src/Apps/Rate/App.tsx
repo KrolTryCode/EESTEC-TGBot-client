@@ -49,9 +49,9 @@ const Component: SolidJS.Component = () => {
         Name: 'Tos',
         secondName: 'Shyh',
         thirdName: 'Mh',
-        delta: 2321,
+        delta: -2321,
         kpi: 2523,
-        IsAdmin: false
+        IsAdmin: true
       },
       {
         Name: 'Osam',
